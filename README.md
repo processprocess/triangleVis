@@ -1,6 +1,6 @@
 
 # triangleVis
-# [LIVEDEMO](https://processprocess.github.io/triangleVis/)
+# [LIVE DEMO](https://processprocess.github.io/triangleVis/)
 
 Spiking into web VR with A-Frame to search for the future of interaction and interface.
 
