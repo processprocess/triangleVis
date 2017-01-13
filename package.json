@@ -1,6 +1,6 @@
 {
-  "name": "aframe-hello-world-boilerplate",
-  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
+  "name": "triangleVis",
+  "description": "spiking into web VR with A-Frame",
   "version": "0.3.0",
   "license": "MIT",
   "scripts": {
